@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.layout-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 40px;
+  padding: 0px 50px;
+}
+.responsive-container {
+  width: 90%;
+
+  margin: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
